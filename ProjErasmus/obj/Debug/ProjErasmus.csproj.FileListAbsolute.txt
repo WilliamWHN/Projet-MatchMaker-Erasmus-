@@ -7,3 +7,14 @@ C:\Users\william.hausmann\source\repos\ProjErasmus\ProjErasmus\obj\Debug\ProjEra
 C:\Users\william.hausmann\source\repos\ProjErasmus\ProjErasmus\obj\Debug\ProjErasmus.csproj.CoreCompileInputs.cache
 C:\Users\william.hausmann\source\repos\ProjErasmus\ProjErasmus\obj\Debug\ProjErasmus.exe
 C:\Users\william.hausmann\source\repos\ProjErasmus\ProjErasmus\obj\Debug\ProjErasmus.pdb
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\ProjErasmus\bin\Debug\ProjErasmus.exe.config
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\ProjErasmus\bin\Debug\ProjErasmus.exe
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\ProjErasmus\bin\Debug\ProjErasmus.pdb
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\ProjErasmus\obj\Debug\ProjErasmus.csprojAssemblyReference.cache
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\ProjErasmus\obj\Debug\ProjErasmus.Form1.resources
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\ProjErasmus\obj\Debug\ProjErasmus.Properties.Resources.resources
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\ProjErasmus\obj\Debug\ProjErasmus.csproj.GenerateResource.cache
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\ProjErasmus\obj\Debug\ProjErasmus.csproj.CoreCompileInputs.cache
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\ProjErasmus\obj\Debug\ProjErasmus.exe
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\ProjErasmus\obj\Debug\ProjErasmus.pdb
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\ProjErasmus\obj\Debug\ProjErasmus.GuiCreateStudent.resources
