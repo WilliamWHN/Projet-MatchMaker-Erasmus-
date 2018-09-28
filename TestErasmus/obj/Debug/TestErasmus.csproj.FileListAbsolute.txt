@@ -1,0 +1,17 @@
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\TestErasmus\obj\Debug\TestErasmus.csprojAssemblyReference.cache
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\TestErasmus\obj\Debug\TestErasmus.csproj.CoreCompileInputs.cache
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\TestErasmus\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\TestErasmus\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\TestErasmus\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\TestErasmus\bin\Debug\TestErasmus.dll
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\TestErasmus\bin\Debug\TestErasmus.pdb
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\TestErasmus\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\TestErasmus\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\TestErasmus\bin\Debug\ProjErasmus.exe
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\TestErasmus\bin\Debug\ProjErasmus.pdb
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\TestErasmus\bin\Debug\ProjErasmus.exe.config
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\TestErasmus\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\TestErasmus\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\TestErasmus\obj\Debug\TestErasmus.csproj.CopyComplete
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\TestErasmus\obj\Debug\TestErasmus.dll
+C:\Users\william.hausmann\source\repos\Projet-MatchMaker-Erasmus-\TestErasmus\obj\Debug\TestErasmus.pdb

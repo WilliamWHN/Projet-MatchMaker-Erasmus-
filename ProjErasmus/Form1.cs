@@ -27,23 +27,10 @@ namespace ProjErasmus
 
 
         private void btnCSV_Click(object sender, EventArgs e)
-        {   //Utilisation de la librairie System.IO
-            //Creation d'un nouvel objet ofd
-            OpenFileDialog ofd = new OpenFileDialog();
-            ofd.Title = "Select a CSV file";
-            ofd.Filter = "CSV files (*.csv)|*.csv";
-            if (ofd.ShowDialog() == DialogResult.OK) {
-                string ext = Path.GetExtension(ofd.FileName);
-                if(ext != ".csv")
-                {
-                    MessageBox.Show(ext + "Ce n'est pas la bonne extension");
-                }
-                else {
-                    string path = ofd.FileName;
-                    MessageBox.Show(path);
-                }
-                
-            }
+        {
+            ProjErasmus.RwCSV ImportMethod = new ProjErasmus.RwCSV();
+            string text = ImportMethod.Import();
+            MessageBox.Show(text);
         }
     }
 }
