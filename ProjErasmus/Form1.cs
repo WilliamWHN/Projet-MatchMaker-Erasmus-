@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.VisualBasic;
 using System.IO;
+using Student;
 using System.Windows.Forms;
 
 namespace ProjErasmus
@@ -29,8 +30,9 @@ namespace ProjErasmus
         private void btnCSV_Click(object sender, EventArgs e)
         {
             ProjErasmus.RwCSV ImportMethod = new ProjErasmus.RwCSV();
-            string text = ImportMethod.Import();
-            MessageBox.Show(text);
+            List<Eleve> listOfStudent = new List<Eleve>();
+
+            listOfStudent = ImportMethod.Import();
         }
     }
 }
